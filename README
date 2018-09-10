@@ -22,9 +22,9 @@ Input files must use the following format:
 <Nutanix Cluster #N IP>|<Cluster #N Password>
 
 For example:
-10.21.1.37|nx2Tech123!
-10.21.7.37|nx2Tech517!
-10.21.55.37|nx2Tech456!
+1.0.0.1|<CLUSTER PASSWD>
+1.0.0.2|<CLUSTER PASSWD>
+1.0.0.3|<CLUSTER PASSWD>
 
 Note: It is assumed that Prism 'admin' account, CVM 'nutanix' account, and AHV 'root' account share the same password.
 
